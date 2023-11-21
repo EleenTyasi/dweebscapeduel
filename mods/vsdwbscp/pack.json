@@ -1,0 +1,7 @@
+{
+	"name": "dweebscapeduel",
+	"description": "A Rap Battle against a kitsune, using multiple keys. Challenge Rating: 5-8/10",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Paintburst",
+			"dweeb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ImpatientFox",
+			"dweeb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"PaintsuneRumble",
+			"dweeb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Voidic, Mania",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "vs. Ricky",
+	"weekName": "Dweebscape Duel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
